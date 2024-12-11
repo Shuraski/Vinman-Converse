@@ -289,4 +289,4 @@ while True:
                 double_texting_switch(on=True)
 
         else:
-            print(f"\n{RED}Invalid choice. Please enter a number between 1 and 2, or type 'exit' to quit.{RESET}")
+            print(f"\n{RED}Invalid choice. Please enter a number between 1 and 3, or type 'exit' to quit.{RESET}")
