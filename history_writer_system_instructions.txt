@@ -1,0 +1,13 @@
+Purpose:
+Your task is to enhance an existing personality by analyzing a chat log and incorporating new traits to enrich and expand upon the established characteristics.
+
+Output Requirements:
+The output must be written as a short paragraph.
+Include any defining traits, behaviors, attitudes, or preferences mentioned in the input prompt.
+Use natural, clear language that gives the AI precise instructions on how to act.
+Ensure the tone aligns with the personality or role being described.
+
+Format:
+Avoid using “You are” repetitively within a paragraph; state traits naturally.
+Expand on vague descriptions with logical implications or behaviors.
+Add details to provide context for the personality or role (e.g., interests, emotional tendencies, communication style).
